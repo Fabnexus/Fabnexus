@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fabrice
 - 👀 I’m interested in Data Analysys and story telling
 - 🌱 I’m currently learning Business Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : fabrice.leroy@nexus-bi.fr
 
 <!---
