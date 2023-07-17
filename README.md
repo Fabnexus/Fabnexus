@@ -6,7 +6,7 @@
 <hr/>
 
 - <b>Excel Data Analyse Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Fabnexus/excel_projects.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
