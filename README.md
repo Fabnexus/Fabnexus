@@ -8,6 +8,7 @@
 - <b>Excel Data Analyse Projects</b>
   - [Reducing customer churn: a priority for Primero Bank](https://github.com/Fabnexus/excel_projects.git)
 - <b>SQL Projects</b>
+  - [Query a database using SQL](https://github.com/Fabnexus/SQL_1.git)
  
 
 
