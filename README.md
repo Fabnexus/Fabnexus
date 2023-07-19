@@ -12,6 +12,7 @@
   - [Query a database using SQL to track customer satisfaction](https://github.com/Fabnexus/SQL_2.git)
   - [Tiny shop sale](https://github.com/Fabnexus/SQL_3.git)
   - [Human Ressource](https://github.com/Fabnexus/SQL_4.git)
+- <b>Python Projects</b>
  
 
 
