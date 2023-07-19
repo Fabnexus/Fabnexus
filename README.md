@@ -13,7 +13,7 @@
   - [Tiny shop sale](https://github.com/Fabnexus/SQL_3.git)
   - [Human Ressource](https://github.com/Fabnexus/SQL_4.git)
 - <b>Python Projects</b>
- 
+   - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/Python_1.git)
 
 
 
