@@ -10,6 +10,7 @@
 - <b>SQL Projects</b>
   - [Query a database using SQL](https://github.com/Fabnexus/SQL_1.git)
   - [Query a database using SQL to track customer satisfaction](https://github.com/Fabnexus/SQL_2.git)
+  - [Tiny shop sale](https://github.com/Fabnexus/SQL_3.git)
  
 
 
