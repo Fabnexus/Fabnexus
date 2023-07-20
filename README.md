@@ -14,7 +14,8 @@
   - [Human Ressource](https://github.com/Fabnexus/SQL_4.git)
 - <b>Python Projects</b>
    - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/Python_1.git)
-
+- <b>Power BI Projects</b>
+   - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/Python_1.git)
 
 
 <!---
