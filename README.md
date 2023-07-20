@@ -15,7 +15,7 @@
 - <b>Python Projects</b>
    - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/Python_1.git)
 - <b>Power BI Projects</b>
-   - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/Python_1.git)
+   - [Optimize the stock management of a shop by cleaning its data](https://github.com/Fabnexus/PowerBI_1.git)
 
 
 <!---
